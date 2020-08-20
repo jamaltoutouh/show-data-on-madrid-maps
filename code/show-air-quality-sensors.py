@@ -1,3 +1,7 @@
+"""
+Author: Jamal Toutouh (toutouh@mit.edu) - www.jamal.es
+"""
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import geopandas as gpd

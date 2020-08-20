@@ -1,3 +1,7 @@
+"""
+Author: Jamal Toutouh (toutouh@mit.edu) - www.jamal.es
+"""
+
 # Shapes are shown using geopandas
 import cartopy.crs as ccrs
 import cartopy.io.shapereader as shpreader
